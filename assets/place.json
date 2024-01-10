@@ -16,22 +16,6 @@
     "placeId": 2
   },
   {
-    "name": "Porto Seguro",
-    "state": {
-      "name": "Bahia",
-      "shortname": "BA"
-    },
-    "placeId": 3
-  },
-  {
-    "name": "Rio de Janeiro",
-    "state": {
-      "name": "Rio de Janeiro",
-      "shortname": "RJ"
-    },
-    "placeId": 4
-  },
-  {
     "name": "São Paulo",
     "state": {
       "name": "São Paulo",

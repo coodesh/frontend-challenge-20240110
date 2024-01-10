@@ -1,4 +1,4 @@
-# Front-end Challenge - Onfly 20231205
+# Front-end Challenge - Netimóveis 20240110
 
 ## Introdução
 
@@ -10,20 +10,17 @@ Estamos animados para te ver brilhar novamente!
 ### Antes de começar
 
 - Prepare o projeto para ser disponibilizado no Github, copiando o conteúdo deste repositório para o seu (ou utilize o fork do projeto e aponte para o Github). Confirme que a visibilidade do projeto é pública (não esqueça de colocar no readme a referência a este challenge);
-- O projeto deve utilizar a Linguagem específica na sua Vaga (caso esteja se candidatando). Por exempo: Vue.js, Quasar e entre outras;
+- O projeto deve utilizar a Linguagem específica ou Framework na sua Vaga (caso esteja se candidatando). Por exempo: Next.js, React e entre outras;
 - Considere como *deadline 5 dias a partir do início do desafio*. Caso tenha sido convidado a realizar o teste e não seja possível concluir dentro deste período, avise a pessoa que o convidou para receber instruções sobre o que fazer.
 - Documentar todo o processo de investigação para o desenvolvimento da atividade (README.md no seu repositório); os resultados destas tarefas são tão importantes do que o seu processo de pensamento e decisões à medida que as completa, por isso tente documentar e apresentar os seus hipóteses e decisões na medida do possível.
 
 ### Instruções iniciais obrigatórias
 
-- Utilizar o framework Vue.js (opte pela versão que preferir)
-- Utilizar o framework Quasar para a UI (pode usar outros, porém, conta muito para nós usar o Quasar ) ♥
+- Utilizar o framework Next.js (opte pela versão que preferir)
+- Utilizar o framework Tailwind CSS para a UI (pode usar outros, porém, conta muito para nós usar o Tailwind CSS ) ♥
 - Utilizar classes para os dados.
 - Seguir o protótipo da tela
-- Busca de **Destinos** com **autocomplete**
-- Filtros de ordenação aplicáveis a listagem (**Recomendados** e **Melhor Avaliados**)
-  - Filtro por **Nome** será considerado um **diferencial** no seu teste!
-- Scroll infinito (ao chegar no final da página, carregar mais 10 itens)
+- 
 
 ### Será um enorme **diferencial** para a gente se você: 
 - Optar por usar **TypeScript**.
@@ -34,31 +31,29 @@ Estamos animados para te ver brilhar novamente!
 Vamos disponibilizar para você dois JSONs como fonte de dados. 
 
 - Um será o [place.json](./assets/place.json), que contém as informações de 5 cidades brasileiras. 
-- O segundo será o [hotel.json](./assets/hotel.json), nele está o relacionamento cidade versus hotéis.
+- O segundo será o [flats.json](./assets/flats.json), nele está o relacionamento cidade versus hotéis.
 
-Também iremos disponibilizar o protótipo da tela que você deverá nos entregar.
+`Também iremos disponibilizar o protótipo da tela que você deverá nos entregar.`
 
-### Listagem
+### Home
 
-![<img src="assets/images/Listagem.png" height="500" alt="Home" title="Home"/>](assets/images/Listagem.png)
+Estude o Figma para trabalhar no projeto com os requisitos essênciais:
+
+[Figma](https://www.figma.com/file/2EtnsMH0vQ5IeNRDmd6Gez/Untitled?type=design&node-id=1-215&mode=design&t=VczS9FvOybobEkfg-0)
 
 #### Formulário
-- O campo Destinos deverá listar as opções no formato 'Belo Horizonte, Minas Gerais'. Quando selecionada uma opção, ela deverá ser exibida como 'Belo Horizonte, BH'.
-- O botão deverá exibir 'Buscar' quando a busca estiver vazia e 'Alterar Busca' quando já tiver sido efetuado uma pesquisa.
 
-#### Filtros
-- Desenvolva o filtro Recomendados que deverá ordenar os hotéis pelo preço. Desenvolva o filtro Melhor Avaliados que deverá ordenar os hotéis pelo número de estrelas.
+- O campo Localização deverá listar as opções no formato 'Belo Horizonte, Minas Gerais'. Quando selecionada uma opção, ela deverá ser exibida como 'Belo Horizonte, BH'.
+- O campo Nº de Quartos deverá ser um Dropdown para informar a quantidade e selecionar os Tipos
+- O botão deverá 'Buscar' terar alguns comportamentos ao passar o Mouse, seguindo as especificações do Figma
 
 #### Listagem
-- Apresente as imagens do hotel em um carrossel.
-- Ao chegar no final da página, carregue mais 10 hotéis. Informe quando não há hotéis para listar.
+- Apresente as imagens do imóveis em um carrossel.
 
-![<img src="assets/images/Detalhes.png" height="500" alt="Home" title="Home"/>](assets/images/Detalhes.png)
-
-
-#### Drawer
-- Crie um drawer com as informações detalhadas hotel.
-- Utilize novamente um carrossel para exibir as imagens do hotel e agora será necessário mostrar um contador dessas imagens.
+### Extras
+- Desenhar os demais elementos da página
+- Trabalhar com testes unitários
+- Header flutuante
 
 ## Readme do Repositório
 
