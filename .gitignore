@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# next.js
+/.next/
+
+# production
+/build
+
+# local env files
+.env
+.env*.local
