@@ -68,8 +68,6 @@ Estude o Figma para trabalhar no projeto com os requisitos essênciais:
 
 ## Finalização e Instruções para a Apresentação
 
-## Finalização e Instruções para a Apresentação
-
 1. Adicione o repositório na avaliação
 2. Verifique se o Readme está bom e faça o commit final;
 3. Ao finalizar a entrega do código, enviar para a avaliação no botão "Enviar Código" na parte superior da avaliação
