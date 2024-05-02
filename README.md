@@ -39,7 +39,7 @@ Vamos disponibilizar para você dois JSONs como fonte de dados.
 
 Estude o Figma para trabalhar no projeto com os requisitos essênciais:
 
-[Figma](https://www.figma.com/file/2EtnsMH0vQ5IeNRDmd6Gez/Untitled?type=design&node-id=1-215&mode=design&t=VczS9FvOybobEkfg-0)
+[Figma](https://www.figma.com/file/Bbwa2wakxxcUMZB4Y4nXke/Teste-Coodesh?type=design&t=gJx1Cj6soxAtWvks-6)
 
 #### Formulário
 
