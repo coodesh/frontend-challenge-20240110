@@ -54,7 +54,6 @@ Estude o Figma para trabalhar no projeto com os requisitos essênciais:
 - Desenhar os demais elementos da página
 - Trabalhar com testes unitários
 - Header flutuante
-
 ## Readme do Repositório
 
 - Deve conter o título do projeto
@@ -62,20 +61,17 @@ Estude o Figma para trabalhar no projeto com os requisitos essênciais:
 - Deve conter uma lista com linguagem, framework e/ou tecnologias usadas
 - Como instalar e usar o projeto (instruções)
 - Não esqueça o [.gitignore](https://www.toptal.com/developers/gitignore)
-- Se está usando github pessoal, referencie que é um challenge by coodesh:
+- Se está usando github pessoal, referencie que é um challenge by coodesh:  
 
 >  This is a challenge by [Coodesh](https://coodesh.com/)
 
 ## Finalização e Instruções para a Apresentação
 
-1. Adicione o repositório na avaliação
-2. Verifique se o Readme está bom e faça o commit final;
-3. Ao finalizar a entrega do código, enviar para a avaliação no botão "Enviar Código" na parte superior da avaliação
-4. Apresentar o resultado da sua entrega, você terá as instruções para apresentação após "Enviar Código".
+1. Adicione o link do repositório com a sua solução no teste
+2. Verifique se o Readme está bom e faça o commit final em seu repositório;
+3. Envie e aguarde as instruções para seguir. Caso o teste tenha apresentação de vídeo, dentro da tela de entrega será possível gravar após adicionar o link do repositório. Sucesso e boa sorte. =)
+
 
 ## Suporte
 
-Use o nosso canal no slack: http://bit.ly/32CuOMy para tirar dúvidas sobre o processo ou envie um e-mail para contato@coodesh.com.
-
-
-
+Para tirar dúvidas sobre o processo envie uma mensagem diretamente a um especialista no chat da plataforma. 
